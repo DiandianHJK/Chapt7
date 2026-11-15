@@ -7,7 +7,7 @@
                 <plugin name="gz::sim::systems::Sensors" filename="gz-sim-sensors-system"> 
                     <render_engine>ogre</render_engine>
                 </plugin>
-                <topic>lidar</topic>
+                <topic>scan</topic>
                 <always_on>1</always_on>
                 <visualize>true</visualize>
                 <update_rate>5</update_rate>
